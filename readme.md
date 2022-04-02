@@ -44,13 +44,13 @@ All directions are with respect to the device when the connector is pointing dow
 
 Pin 1 is to the right.
 
-1  Top electrode (above, covering the entire device)
-2  Background/field segment ( not a dot, surrounds all other dots)
-3  Segment 1 (the bottom most dot, of five total dots)
-4  Segment 2
-5  Segment 3
-6  Segment 4
-7  Segment 5 (the top most dot.  The distal dot, most distant from the cable.)
+    1  Top electrode (above, covering the entire device)
+    2  Background/field segment ( not a dot, surrounds all other dots)
+    3  Segment 1 (the bottom most dot, of five total dots)
+    4  Segment 2
+    5  Segment 3
+    6  Segment 4
+    7  Segment 5 (the top most dot.  The distal dot, most distant from the cable.)
 
 
 ### The connector
