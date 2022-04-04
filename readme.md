@@ -1,6 +1,6 @@
 EInkBreakout
 
-A breakout board for eInk brand, 5 segment, bar graph display.
+A breakout board for eInk brand, 5 segment, bar graph display SCD722002.
 
 The display plugs into a FFC connector, and the board breaks out to standard pin headers.
 Alternatively, you can just solder wires to a FFC connector, but it is difficult.
